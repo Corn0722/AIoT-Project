@@ -34,12 +34,18 @@
 
 <img width="50%" src="https://github.com/user-attachments/assets/2e0d42a5-8afc-436c-8891-5dc76477a295"/>
 
+## 資料庫架構
+ - data_and_time_settings : 此次吃藥時間(起始日期、結束日期、幾點要吃)
+ - record : 打開藥盒時間、該次吃藥狀態(準時、未準時、未吃)
+ - information : 記錄吃藥資訊(為何吃藥、吃甚麼藥、長期or短期)
+
 ## 開發工具
  - 前端：Flutter
  - 後端：Firebase
  - 硬體：Arduino ESP32
 
-## 資料庫架構
- - data_and_time_settings : 此次吃藥時間(起始日期、結束日期、幾點要吃)
- - record : 打開藥盒時間、該次吃藥狀態(準時、未準時、未吃)
- - information : 記錄吃藥資訊(為何吃藥、吃甚麼藥、長期or短期)
+## 作者
+ - 沈之晅
+ - 郭奕里
+ - 梁珉毓([@Corn0722](https://github.com/Corn0722))
+ - 張芸婕
